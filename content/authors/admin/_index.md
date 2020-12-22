@@ -14,25 +14,30 @@ organizations:
   url: https://agecon.uga.edu/people/job-market-candidates/mohammadreza-zarei.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Reza Zarei is a Ph.D. candiate of Agricultural and Applied Economics at University of Georgia. His interests are applied, health, environmental and resources Economics with focuse on coastal management and policy analysis.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied, Health, Environmental and Resources Economics 
+- Coastal Management and Policy Analysis
+- Data Science (Big Data, Web Data Scraping, ...)
+- Machine Learning, Econometrics and Computational Linguistics
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Ph.D. in Agricultural and Applied Economics
+    institution: University of Georgia
+    year: 2016 - Present
+  - course: MS in Agricultural and Applied Economics
+    institution: University of Georgia
+    year: 2016
+  - course: MS in Engineering
+    institution: Amirkabir University
+    year: 2010
+  - course: BSc in in Engineering
+    institution: Azad University
     year: 2008
 
 # Social/Academic Networking
@@ -45,33 +50,34 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/home?lang=en-gb
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=hhMYGOAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mrezazarei
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/m-reza-zarei/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Reza Zarei is a Ph.D. Candidate of Agricultural and Applied Economics at the University of Georgia. His research interests are applied, health, environmental and resources economics with focuse on coastal management and policy analysis. He has served as instructor of records for multiple courses in the department of Agricultural and Appled Economics. He has received Outstanding Teaching Assistant Award in 2018, Nominated for Excelent in Teaching Award, and selected as Future Faculty Fellow for excellence in teaching by Center of Teaching and Learning at UGA in 2020.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Actively looking for job opportunities!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

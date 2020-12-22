@@ -22,24 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Research Assistant
+    company: University of Georgia
+    company_url: 'https://agecon.uga.edu/'
+    location: Athens, Georgia
+    date_start: '2018-08-06'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Analysing
         * Modelling
-        * Deploying
+        * Policy Analysis
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Instructor of Record
+    company: University of Georgia
+    company_url: 'https://agecon.uga.edu/'
+    location: Athens, Georgia
+    date_start: '2017-05-01'
+    date_end: '2020-08-05'
+    description: Taught Resource Economics, Principles of Microeconomics and Analytical Computational Tools for Applied Economics (undergraduate courses, asynchronous classes). 
+      
+  - title: Teaching Assistant
+    company: University of Georgia
+    company_url: 'https://agecon.uga.edu/'
+    location: Athens, Georgia
+    date_start: '2016-08-01'
+    date_end: '2017-12-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Holding Office hours
+        * Holding 2 hours weekly Q&A sessions
+        * Grading and proctoring
+        * Lecturing as needed
+ 
+    
 ---
