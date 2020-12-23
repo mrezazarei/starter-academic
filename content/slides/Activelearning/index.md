@@ -2,9 +2,7 @@
 title: GradTeach Workshop
 summary: Active Learning as a TA
 authors: []
-tags: 
-- Active Learning
-- GradTeach Workshop
+tags: []
 categories: []
 date: "2020-18-05T00:00:00Z"
 slides:
@@ -16,16 +14,30 @@ highlight_style: dracula
 ---
 
 example of
+
 ---
-{{< slide background-image="/content/slides/ActiveLearning_1.jpeg" >}}
+
+second
+
 ---
-{{< slide background-image="/content/slides/ActiveLearning_2.jpeg" >}}
+
+{{< slide background-image="ActiveLearning_1.jpeg" >}}
+
 ---
+
+{{< slide background-image="/images/ActiveLearning_2.jpeg" >}}
+
+---
+
 {{< slide background-image="/content/slides/ActiveLearning_3.jpeg" >}}
+
 ---
+
 {{< slide background-image="/content/slides/ActiveLearning_4.jpeg" >}}
+
 ---
+
 {{< slide background-image="/content/slides/ActiveLearning_5.jpeg" >}}
+
 ---
 {{< slide background-image="/content/slides/ActiveLearning_6.jpeg" >}}
-
