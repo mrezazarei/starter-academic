@@ -15,7 +15,7 @@ theme: black
 highlight_style: dracula
 ---
 
-example
+example of
 ---
 {{< slide background-image="ActiveLearning_1.jpeg" >}}
 ---
