@@ -17,15 +17,15 @@ highlight_style: dracula
 
 example of
 ---
-{{< slide background-image="content/slides/ActiveLearning_1.jpeg" >}}
+{{< slide background-image="/content/slides/ActiveLearning_1.jpeg" >}}
 ---
-{{< slide background-image="content/slides/ActiveLearning_2.jpeg" >}}
+{{< slide background-image="/content/slides/ActiveLearning_2.jpeg" >}}
 ---
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_3.jpeg" >}}
+{{< slide background-image="/content/slides/ActiveLearning_3.jpeg" >}}
 ---
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_4.jpeg" >}}
+{{< slide background-image="/content/slides/ActiveLearning_4.jpeg" >}}
 ---
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_5.jpeg" >}}
+{{< slide background-image="/content/slides/ActiveLearning_5.jpeg" >}}
 ---
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_6.jpeg" >}}
+{{< slide background-image="/content/slides/ActiveLearning_6.jpeg" >}}
 
