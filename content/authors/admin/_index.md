@@ -81,3 +81,4 @@ Reza Zarei is a Ph.D. Candidate of Agricultural and Applied Economics at the Uni
 Actively looking for job opportunities!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+

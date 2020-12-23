@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
+- certificate_url: https://site.caes.uga.edu/agdatascience/
+  date_end: "2020-05-30"
   date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  description: "The purpose of the Agricultural Data Science certificate program is to produce graduates capable of bridging the gap between the generation, analysis, and interpretation of big data in the agricultural sector."
+  organization: UGA
+  organization_url: https://www.uga.edu/
+  title: Graduate Certificate in Agricultural Data Science
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""

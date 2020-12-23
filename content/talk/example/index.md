@@ -1,34 +1,34 @@
 ---
 title: Example Talk
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Principles of Resource Economics
+event_url: https://www.youtube.com/playlist?list=PLGWmxLR9gfyG9lVT0Au_8CGX2Tbl_qMI_
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Virual Presentation
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+# country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Lecture videos used in AAEC 3060E, Summer 2020use
+abstract: "Theoretical concepts and analytical tools necessary to evaluate resource allocations and conduct policy analysis are discussed. Emphasis is placed upon policy evaluation and practical applications of renewable and nonrenewable natural and agricultural resources."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-11-18T12:40:00Z"
+date_end: "2020-11-18T13:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-23T00:00:00Z"
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
