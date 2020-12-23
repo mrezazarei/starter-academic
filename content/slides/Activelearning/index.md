@@ -21,23 +21,23 @@ second
 
 ---
 
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/activelearning_1.jpeg" >}}
+{{< slide background-image="activelearning_1.jpeg" >}}
 
 ---
 
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/activelearning_2.jpeg" >}}
+{{< slide background-image="activelearning_2.jpeg" >}}
 
 ---
 
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/activelearning_3.jpeg" >}}
+{{< slide background-image="activelearning_3.jpeg" >}}
 
 ---
 
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/activelearning_4.jpeg" >}}
+{{< slide background-image="activelearning_4.jpeg" >}}
 
 ---
 
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/activelearning_5.jpeg" >}}
+{{< slide background-image="activelearning_5.jpeg" >}}
 
 ---
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/activelearning_6.jpeg" >}}
+{{< slide background-image="activelearning_6.jpeg" >}}
