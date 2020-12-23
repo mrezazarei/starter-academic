@@ -14,15 +14,15 @@ theme: black
   #   Light style: github. Dark style: dracula (default).
 highlight_style: dracula
 ---
-{{< slide background-image="./Slides/ActiveLearning_1.jpeg" >}}
+{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_1.jpeg" >}}
 ---
-{{< slide background-image="./Slides/ActiveLearning_2.jpeg" >}}
+{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_2.jpeg" >}}
 ---
-{{< slide background-image="./Slides/ActiveLearning_3.jpeg" >}}
+{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_3.jpeg" >}}
 ---
-{{< slide background-image="./Slides/ActiveLearning_4.jpeg" >}}
+{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_4.jpeg" >}}
 ---
-{{< slide background-image="./Slides/ActiveLearning_5.jpeg" >}}
+{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_5.jpeg" >}}
 ---
-{{< slide background-image="./Slides/ActiveLearning_6.jpeg" >}}
+{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_6.jpeg" >}}
 
