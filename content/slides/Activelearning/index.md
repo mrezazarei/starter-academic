@@ -14,7 +14,10 @@ theme: black
   #   Light style: github. Dark style: dracula (default).
 highlight_style: dracula
 ---
-{{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_1.jpeg" >}}
+
+example
+---
+{{< slide background-image="ActiveLearning_1.jpeg" >}}
 ---
 {{< slide background-image="D:/websiteinblogdown/Mywebsite/starter-academic/content/slides/ActiveLearning_2.jpeg" >}}
 ---
