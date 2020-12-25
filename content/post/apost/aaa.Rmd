@@ -22,7 +22,7 @@ n <- 60
 qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
 col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
 
-related_CRS<- read_csv("d:/CRS_materials/CRSdata/Related Activities under the Community Rating System.csv", col_names = TRUE)
+related_CRS<- read_csv("D:/websiteinblogdown/Mywebsite/starter-academic/content/post/apost/Related Activities under the Community Rating System.csv", col_names = TRUE)
 related_CRS=cast(related_CRS, Activity1 ~ Activity2, value="index")
 
 #groupColors <- c("#000000", "#FFDD89", "#957244", "#F26223")

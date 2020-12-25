@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Page type to display. E.g. project.
-  page_type: research
+  page_type: teaching
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -47,4 +47,4 @@ design:
   flip_alt_rows: true
 ---
 {{< youtube 7oAPJx5OH2Y >}}
-{{< youtube 7oAPJx5OH2Y >}}
+

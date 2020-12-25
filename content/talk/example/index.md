@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Active Learning as a TA
 
-event: Principles of Resource Economics
-event_url: https://www.youtube.com/playlist?list=PLGWmxLR9gfyG9lVT0Au_8CGX2Tbl_qMI_
+event: GradTeach Workshop, Active Learning as a TA
+event_url: https://calendar.uga.edu/event/gradteach_workshop_active_learning_as_a_ta#.X-Vrk9hKiCg
 
 location: Virual Presentation
 #address:
@@ -12,8 +12,8 @@ location: Virual Presentation
 #  postcode: '94305'
 # country: United States
 
-summary: Lecture videos used in AAEC 3060E, Summer 2020use
-abstract: "Theoretical concepts and analytical tools necessary to evaluate resource allocations and conduct policy analysis are discussed. Emphasis is placed upon policy evaluation and practical applications of renewable and nonrenewable natural and agricultural resources."
+summary: As a part of this CTL workshop, I shared some active learning practices used in my classes with TAs at UGA
+abstract: "Active learning is a critical aspect of learning in hybrid classes. I was in GradTeach panel with award-winning TAs from across campus. We discussed active learning as a TA in various teaching contexts, including face-to-face, synchronous, and asynchronous settings."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: activelearning
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -60,14 +60,15 @@ projects:
 - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+#{{% callout note %}}
+#Click on the **Slides** button above to view the built-in slides feature.
+#{{% /callout %}}
 
-Slides can be added in a few ways:
+#Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+#- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using 
+# # 
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+#Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
