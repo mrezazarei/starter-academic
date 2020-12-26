@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## CRS Activities Relationship
 
 
-```{r,echo=FALSE}
+```{r,echo=FALSE, comment=FALSE,warning=FALSE}
 getwd()
 
 pacman::p_load(RColorBrewer,dplyr, reshape, chorddiag, readxl,readr )
@@ -24,7 +24,7 @@ col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_co
 related_CRS<- read_csv("Related Activities under the Community Rating System.csv", col_names = TRUE)
 related_CRS=cast(related_CRS, Activity1 ~ Activity2, value="index")
 
-#groupColors <- c("#000000", "#FFDD89", "#957244", "#F26223")
+
 chorddiag(as.matrix(related_CRS),showTicks = F,groupnamePadding = 5,groupnameFontsize=6,tooltipGroupConnector = " is related to ",
           showZeroTooltips=T, groupColors = col_vector , showTooltips=T,ticklabelFontsize=6,tooltipFontsize=10,type="bipartite" )
 
