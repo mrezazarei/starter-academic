@@ -60,3 +60,30 @@ url_video: ""
 ---
 
 {{< youtube 7oAPJx5OH2Y >}}
+{{< youtube FSd7bvbyWQo >}}
+{{< youtube kTjN5KhvXqM >}}
+{{< youtube TF9f6nMCRLA >}}
+{{< youtube 2LIi8YwW8Nw >}}
+{{< youtube rFe16wBdBeg >}}
+{{< youtube aJuD3pzCJFs >}}
+{{< youtube qtxjstqam8I >}}
+{{< youtube 4Dib7ex05QQ >}}
+{{< youtube DS5-YN-X9w4 >}}
+{{< youtube n8J_9UrUCNY >}}
+{{< youtube zJrOpK8aiTQ >}}
+{{< youtube 82gbQC9kGJI >}}
+
+{{< youtube _s5omIkCVEc >}}
+{{< youtube 4fpbdKFgDk0 >}}
+{{< youtube IiPv1RkShRQ >}}
+{{< youtube OVkg2aUJKEA >}}
+{{< youtube ubZJpQRDZnc >}}
+
+{{< youtube Mcf6DGgItKk >}}
+{{< youtube 2C3F65EjDuQ >}}
+{{< youtube hSNtfOWnqCs >}}
+
+
+{{< youtube eFZBc7b1dOU >}}
+{{< youtube dSjVQTFnHqU >}}
+
