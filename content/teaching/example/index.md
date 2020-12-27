@@ -72,18 +72,14 @@ url_video: ""
 {{< youtube n8J_9UrUCNY >}}
 {{< youtube zJrOpK8aiTQ >}}
 {{< youtube 82gbQC9kGJI >}}
-
 {{< youtube _s5omIkCVEc >}}
 {{< youtube 4fpbdKFgDk0 >}}
 {{< youtube IiPv1RkShRQ >}}
 {{< youtube OVkg2aUJKEA >}}
 {{< youtube ubZJpQRDZnc >}}
-
 {{< youtube Mcf6DGgItKk >}}
 {{< youtube 2C3F65EjDuQ >}}
 {{< youtube hSNtfOWnqCs >}}
-
-
 {{< youtube eFZBc7b1dOU >}}
 {{< youtube dSjVQTFnHqU >}}
 
