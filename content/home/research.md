@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: CRS
+    tag: CRS
+  - name: MRIP
+    tag: MRIP
+  - name: Green Infrastructure
+    tag: Green Infrastructure
   - name: Other
     tag: Demo
 
@@ -41,7 +45,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true

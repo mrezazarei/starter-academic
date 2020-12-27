@@ -27,24 +27,30 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Teaching Philosophy
+    tag: Teaching Philosophy
+  - name: Description of Courses
+    tag: Description of Courses
+  - name: Evaluation of Teaching
+    tag: Evaluation of Teaching
+  - name: Innovative Teaching Projects
+    tag: Innovative Teaching Projects
   - name: Other
-    tag: Demo
+    tag: List of Professional Activities Related to Teaching
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '3'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
 ---
-{{< youtube 7oAPJx5OH2Y >}}
+
 

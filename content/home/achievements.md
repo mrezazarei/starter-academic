@@ -10,13 +10,16 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+#title: 'Accomplish&shy;ments'
+title: Achievements
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
-
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: achievements
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
@@ -32,7 +35,7 @@ item:
   title: Graduate Certificate in Agricultural Data Science
   url: ""
 - certificate_url: https://grad.uga.edu/index.php/current-students/professional-development/university-teaching/
-  date_end: ""
+  date_end: "2021-05-05"
   date_start: "2016-08-01"
   description: The Graduate School, in collaboration with the Center for Teaching and Learning, offers an Interdisciplinary Graduate Certificate in University Teaching.
   organization: UGA
@@ -41,7 +44,7 @@ item:
   url:  https://grad.uga.edu/index.php/current-students/professional-development/university-teaching/
 
 - certificate_url: hhttps://diversity.uga.edu/index.php/programs/article/CDI
-  date_end: ""
+  date_end: "2021-05-05"
   date_start: "2019-07-01"
   description: ""
   organization: DataCamp
