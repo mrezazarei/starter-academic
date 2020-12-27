@@ -1,8 +1,12 @@
 ---
 title: "CRS"
-author: "M. REZA ZAREI"
 date: "12/24/2020"
 output: html_document
+
+subtitle: Complexity of CRS
+summary: In this study, we control the interdependencies in activities and their substitutable, prerequisite or associated prerequisite elements.
+authors:
+- admin
 ---
 
 ```{r setup, include=FALSE}
@@ -12,19 +16,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ## CRS Activities Relationship
 
 
-```{r,echo=FALSE, comment=FALSE,warning=FALSE}
-getwd()
-
+```{r,echo=FALSE, comment="", warning=FALSE, message=FALSE}  
 pacman::p_load(RColorBrewer,dplyr, reshape, chorddiag, readxl,readr )
-library(RColorBrewer)
+
 n <- 60
 qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
 col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
-
 related_CRS<- read_csv("Related Activities under the Community Rating System.csv", col_names = TRUE)
 related_CRS=cast(related_CRS, Activity1 ~ Activity2, value="index")
-
-
 chorddiag(as.matrix(related_CRS),showTicks = F,groupnamePadding = 5,groupnameFontsize=6,tooltipGroupConnector = " is related to ",
           showZeroTooltips=T, groupColors = col_vector , showTooltips=T,ticklabelFontsize=6,tooltipFontsize=10,type="bipartite" )
 
