@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Teaching Philosophy
     tag: Teaching Philosophy
+  - name: Awards
+    tag: Awards
   - name: Description of Courses
     tag: Description of Courses
   - name: Evaluation of Teaching
@@ -47,7 +49,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true

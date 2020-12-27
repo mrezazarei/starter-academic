@@ -9,6 +9,15 @@ authors:
 tags: 
 - Description of Courses
 
+
+summary: Taught AAEC 2580E, ENVN 3060E and AAEC 3020E.
+
+
+
+
+
+
+
 # Is this a featured teaching? (true/false)
 featured: true
 

@@ -62,11 +62,11 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
+diagram = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -114,9 +114,9 @@ appointment_url = "https://calendly.com/zarei-reza"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "M. Reza Zarei", link = "https://twitter.com/Zareimreza"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/Am8JkHgDSWE9"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "linkedin", icon_pack = "fab", name = "Lets Connect", link = "https://www.linkedin.com/in/m-reza-zarei/"},
+  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://www.powr.io/comments/i/27167208#page"},
+  {icon = "github", icon_pack = "fab", name = "On github", link = "https://github.com/mrezazarei"},
   ]
 
 ############################
@@ -157,7 +157,7 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
@@ -222,6 +222,7 @@ plugins_js  = []
   [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
     url = ""
+
 
 ############################
 ## Search

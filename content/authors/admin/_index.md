@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-Reza Zarei is a Ph.D. Candidate of Agricultural and Applied Economics at the University of Georgia. His research interests are applied, health, environmental and resources economics with focuse on coastal management and policy analysis. He has served as instructor of records for multiple courses in the department of Agricultural and Appled Economics. He has received Outstanding Teaching Assistant Award in 2018, Nominated for Excelent in Teaching Award, and selected as Future Faculty Fellow for excellence in teaching by Center of Teaching and Learning at UGA in 2020.
+Reza Zarei is a Ph.D. Candidate of Agricultural and Applied Economics at the University of Georgia. His research interests are applied, health, environmental and resources economics with focuse on coastal management and policy analysis. He has served as instructor of records for multiple courses in the department of Agricultural and Appled Economics. He has received Outstanding Teaching Assistant Award in 2018, nominated for Excelent in Teaching Award, and selected as Future Faculty Fellow for excellence in teaching by Center of Teaching and Learning at UGA in 2020.
 
 Actively looking for job opportunities!
 

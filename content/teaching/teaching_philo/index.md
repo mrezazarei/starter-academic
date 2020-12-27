@@ -4,8 +4,8 @@ widget: pages
 title: Teaching Philosophy
 
 
-summary: Lecture videos used in AAEC 3060E, Summer 2020
-abstract: "Theoretical concepts and analytical tools necessary to evaluate resource allocations and conduct policy analysis are discussed. Emphasis is placed upon policy evaluation and practical applications of renewable and nonrenewable natural and agricultural resources."
+summary: Here is my teaching philosophy.
+abstract: "I have lived in several countries and have been a  multidisciplinary student in different schools. Now, I am a researcher, an engineer, a statistician, an economist, and more importantly, a humble teacher. Every course, teacher, class, program, and culture in my life had positive and negative impacts. What I believe is to use my good experiences to improve my teaching and learn from the bad experiences to become a life changer like great teachers who made a significant impact on my academic achievements. I see teaching as caring and supporting students to reach their goals. We are surrounded by distractions such as cellphones, social media, politics, emotions, and the environment, to say a few. Learning occurs when we pay attention, get engaged and are motivated. Students and their teachers should have a healthy, productive, and professional relationship. Efficient teaching happens in a safe space that accommodates students in a calm, peaceful, positive learning environment. A teacher incorporating modeling, active learning, technology, and formative assessment in a dynamic, universal course design that is equity-oriented, centered on youth interest and socially connected can engage, motivate, and attract students to learn more effectively."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
