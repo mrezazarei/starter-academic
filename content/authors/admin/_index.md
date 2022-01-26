@@ -30,6 +30,9 @@ education:
   - course: Ph.D. in Agricultural and Applied Economics
     institution: University of Georgia
     year: 2016 - Present
+  - course: MS in Statistics
+    institution: University of Georgia
+    year: 2021
   - course: MS in Agricultural and Applied Economics
     institution: University of Georgia
     year: 2016
