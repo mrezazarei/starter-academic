@@ -49,7 +49,9 @@ links:
   url: https://twitter.com/Zareimreza
 url_code: ""
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/1nv_2npe08reN2NlLqo56uwxttrkpTz6GgHz-3oa8Exk/edit?usp=sharing"
+url_slides: "https://docs.google.com/presentation/d/1J8gcPkHqq0xTAitmnEWOLMoK5ehj6hE7SGXaHmCW3Pk/edit?usp=sharing"
+
+
 url_video: ""
 
 # Markdown Slides (optional).
