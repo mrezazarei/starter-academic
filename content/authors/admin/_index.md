@@ -39,7 +39,7 @@ education:
   - course: MS in Engineering
     institution: Amirkabir University
     year: 2010
-  - course: BSc in in Engineering
+  - course: BSc in Engineering
     institution: Azad University
     year: 2008
 
