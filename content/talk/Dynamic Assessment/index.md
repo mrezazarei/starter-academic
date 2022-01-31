@@ -26,12 +26,12 @@ summary: Academics with teaching responsibility allocate a significant time to t
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-06T10:30:00Z"
+date: "2020-01-06T10:30:00Z"
 date_end: "2022-01-06T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-12-23T00:00:00Z"
+publishDate: "2020-02-01T00:00:00Z"
 
 authors: []
 tags: []
