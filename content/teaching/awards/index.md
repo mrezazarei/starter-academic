@@ -22,7 +22,7 @@ summary: Achieved teaching awards
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/3D_HEyuDmXM)'
+  caption: 'Image credit: [**Clipartmax**](https://www.clipartmax.com/middle/m2i8d3d3d3G6i8b1_all-finishers-will-receive-a-custom-medal-award-icon/)'
   focal_point: Right
 
 links:
