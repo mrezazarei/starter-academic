@@ -1,7 +1,7 @@
 ---
 widget: pages
 
-title: "Dynamic Assessment"
+title: Dynamic Assessment
 
 event: 2020 Spring Teaching Symposium
 #event_url: https://calendar.uga.edu/event/ta_cafe_developing_a_teaching_portfolio#.X-WXw9hKiCg
@@ -28,8 +28,8 @@ summary: Academics with teaching responsibility allocate a significant time to t
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-06T10:30:00Z"
-date_end: "2022-01-06T11:00:00Z"
+date: "2020-02-01T10:30:00Z"
+date_end: "2020-01-06T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
