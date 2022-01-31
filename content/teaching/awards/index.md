@@ -36,7 +36,7 @@ url_slides: ""
 url_video: ""
 ---
 
-Begin
+
 - Nominated for the Excellence in Teaching Award (ETA) by AAEC department, UGA (2021)
 - The Future Faculty Fellows Program (3FP) sponsored jointly by the Graduate School and the Center for Teaching and Learning, Experienced teaching assistants with demonstrated teaching passion and who will be preparing for careers in higher education are invited to apply to the program. Invitation to this program in recognition of award-winning classroom instruction and mentorship (2020)
 
