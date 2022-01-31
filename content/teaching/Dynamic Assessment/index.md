@@ -1,4 +1,6 @@
 ---
+widget: pages
+
 title: "Dynamic Assessment"
 
 event: 2020 Spring Teaching Symposium
